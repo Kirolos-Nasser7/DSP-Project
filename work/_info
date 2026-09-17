@@ -1,0 +1,92 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kerol/Desktop/folders/DSP_project
+T_opt
+!s110 1773092929
+V880VE5igZTHCm0WcGfMj]0
+04 6 4 work DSP_tb fast 0
+=1-ac91a11d2ad7-69af4041-3e-3460
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R0
+vDSP
+Z2 !s110 1773362198
+!i10b 1
+!s100 fH2eYMDK?FJQ;hmVH@2oN2
+IEzk`Z^WEO_2YVn_h2i2cj3
+R0
+w1773092826
+8C:/Users/kerol/Desktop/folders/DSP_project/DSP.v
+FC:/Users/kerol/Desktop/folders/DSP_project/DSP.v
+!i122 3
+L0 1 178
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1773362198.000000
+!s107 C:/Users/kerol/Desktop/folders/DSP_project/REG_PIPE.v|C:/Users/kerol/Desktop/folders/DSP_project/DSP.v|
+Z6 !s90 C:/Users/kerol/Desktop/folders/DSP_project/DSP.v|C:/Users/kerol/Desktop/folders/DSP_project/REG_PIPE.v|-work|work|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@d@s@p
+vDSP_tb
+!s110 1773356396
+!i10b 1
+!s100 eNfG2:okWoU0RFAhV0aSz1
+I=PzWgbzm@KM;]D9k^VfOo2
+R0
+w1773092822
+8DSP_tb.v
+FDSP_tb.v
+!i122 2
+L0 1 158
+R3
+R4
+r1
+!s85 0
+31
+!s108 1773356396.000000
+!s107 DSP_tb.v|REG_pipe.v|DSP.v|
+!s90 -reportprogress|300|DSP.v|REG_pipe.v|DSP_tb.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@d@s@p_tb
+vREG_pipe
+R2
+!i10b 1
+!s100 HA8L7]VM:=aT1P;L^hFX<1
+ISKcOKMJdP^?n;3DI[QD=W2
+R0
+w1773092828
+8C:/Users/kerol/Desktop/folders/DSP_project/REG_PIPE.v
+FC:/Users/kerol/Desktop/folders/DSP_project/REG_PIPE.v
+!i122 3
+L0 1 41
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 C:/Users/kerol/Desktop/folders/DSP_project/REG_PIPE.v|C:/Users/kerol/Desktop/folders/DSP_project/DSP.v|
+R6
+!i113 0
+R7
+R1
+n@r@e@g_pipe

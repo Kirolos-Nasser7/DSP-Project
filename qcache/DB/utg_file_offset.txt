@@ -1,0 +1,8 @@
+REG_pipe_1241354948.utg.db:0
+REG_pipe_1840794457.utg.db:3350
+REG_pipe_1098452195.utg.db:6428
+REG_pipe_1531448178.utg.db:9797
+REG_pipe_1475076654.utg.db:13183
+REG_pipe_43012233.utg.db:16569
+DSP_263635493.utg.db:19894
+DSP.utg.db:29213
